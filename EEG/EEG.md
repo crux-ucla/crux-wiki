@@ -2,5 +2,8 @@ Stands for [electroencephalogram](https://en.wikipedia.org/wiki/Electroencephalo
 
 ## Possible Issues
 * [[Power Line Interference]]
+* [[EMG]]
 ## Solutions
 * [[Filters]]
+## Other Topics
+* [[10-20 System]]

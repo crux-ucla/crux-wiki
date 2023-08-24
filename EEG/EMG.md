@@ -1,0 +1,1 @@
+Stands for [electromyogram](https://en.wikipedia.org/wiki/Electromyography). Measures electrical signals from muscles, which are much stronger. These signals often create noise when trying to measure EEG's, and so subjects are instructed to stay still and avoid moving their face or clenching their jaw while getting EEG readings from them

@@ -1,0 +1,1 @@
+Controls the sense of touch. Found in the postfrontal gyrus on the [[parietal lobe]]

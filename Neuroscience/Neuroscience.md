@@ -1,3 +1,3 @@
 ## Topics
-* [[Brain Lobes]]
+* [[Brain Parts]]
 * [[Brain Waves]]
