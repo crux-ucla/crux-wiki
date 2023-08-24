@@ -10,4 +10,4 @@
 		* keras
 * C++
 	* For hardware
-* OpenBCI GUI
+* [[OpenBCI GUI]]

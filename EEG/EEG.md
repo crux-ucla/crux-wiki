@@ -6,4 +6,5 @@ Stands for [electroencephalogram](https://en.wikipedia.org/wiki/Electroencephalo
 ## Solutions
 * [[Filters]]
 ## Other Topics
+* [[OpenBCI]]
 * [[10-20 System]]
