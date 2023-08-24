@@ -1,4 +1,3 @@
-# crux-wiki
 CruX UCLA Wiki based off of Obsidian Zola (https://github.com/ppeetteerrs/obsidian-zola)
 
 ## To CruX members who wish to add to this wiki
