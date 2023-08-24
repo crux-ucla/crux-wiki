@@ -1,0 +1,1 @@
+Contains the [[Somatosensory Cortex]]. Reading signals from here is a common when trying to use [[Motor Imagery]]

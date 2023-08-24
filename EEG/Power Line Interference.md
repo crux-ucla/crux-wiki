@@ -1,0 +1,2 @@
+Check out the [Wikipedia article](https://en.wikipedia.org/wiki/Utility_frequency).
+Essentially, the US power grid has AC running through it at 60 Hz, which will actually show up on the EEG as a spike at 60 Hz. A simple fix is to apply a [[filter]] to remove the 60 Hz noise.
