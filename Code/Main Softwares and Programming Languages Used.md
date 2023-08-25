@@ -7,7 +7,7 @@
 		* os
 	* Machine Learning Libraries
 		* sklearn
-		* keras
+		* [[Keras]]
 * C++
 	* For hardware
 * [[OpenBCI GUI]]
