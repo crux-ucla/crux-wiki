@@ -36,3 +36,10 @@ model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['mae', 'acc
 
 print(model.summary())
 ```
+
+<iframe
+  src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python&code=import%20matplotlib.pyplot%20as%20plt%20%20%0Aimport%20numpy%20as%20np
+&theme=JupyterLab Dark"
+  width="100%"
+  height="100%"
+></iframe>
