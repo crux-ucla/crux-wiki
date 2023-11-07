@@ -7,3 +7,4 @@
 * [[Events]]
 * [[Neuroscience]]
 * [[Code]]
+* [[Slack]]
